@@ -1,5 +1,5 @@
 # Go Sample Pipelines in Harness
-Test 2
+Test 3
 Introduction
 ========================
 This repository is a home for snippets of YAML code and a sample hello world server for the Harness CI Community.
